@@ -66,7 +66,7 @@ sdkmanager "platform-tools" "platforms;android-30" "build-tools;30.0.3"
 print_header "Setting up Android Studio project"
 mkdir -p ~/AndroidStudioProjects/InvoiceApp
 cd ~/AndroidStudioProjects/InvoiceApp
-git clone https://github.com/your-repo/android-invoice-app.git
+git clone https://github.com/allyelvis/springboot-invoice-app.git
 
 # Install Node.js and required packages for frontend integration
 print_header "Installing Node.js packages for Android project"
